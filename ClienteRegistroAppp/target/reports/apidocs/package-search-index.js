@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.miapp.model"},{"l":"com.miapp.service"},{"l":"com.miapp.servlet"},{"l":"com.mycompany.clienteregistroappp"},{"l":"com.mycompany.clienteregistroappp.resources"}];updateSearchResults();

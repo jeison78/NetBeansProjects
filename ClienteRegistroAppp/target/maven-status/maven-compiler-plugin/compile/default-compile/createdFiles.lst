@@ -1,0 +1,9 @@
+com\miapp\model\Compra.class
+com\mycompany\clienteregistroappp\resources\JakartaEE10Resource.class
+com\miapp\model\Vehiculo.class
+com\mycompany\clienteregistroappp\JakartaRestConfiguration.class
+com\miapp\service\CompraService.class
+com\miapp\service\ClienteService.class
+com\miapp\servlet\RegistrarCompraServlet.class
+com\miapp\model\Cliente.class
+com\miapp\service\VehiculoService.class
